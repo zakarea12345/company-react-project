@@ -1,0 +1,41 @@
+.company {
+    text-align: center;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,.24) 0px 3px 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+/* single company image style */
+.company img {
+    width: 150px;
+    height: 100px;
+}
+/* common button style */
+.common-btn {
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* facebook twitter and youtube icon style */
+.social-icons {
+    margin-top: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.facebook {
+    color: blue;
+    margin-right: 10px;
+}
+.twitter {
+    color: blue;
+    margin-right: 10px;
+}
+.youtube {
+    color: red;
+}

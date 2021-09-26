@@ -1,0 +1,137 @@
+[
+    {
+        "id": "ABC12345",
+        "company": "ASSURE GROUP",
+        "established": "2007",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/assure--300x150.jpg",
+        "income": 82898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12358",
+        "company": "Bashundhara Group",
+        "established": "1987",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Bashundhara-group-300x150.jpg",
+        "income": 80898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12350",
+        "company": "Navana Real Estate Ltd",
+        "established": "1996",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Navana-Real-Estate-Ltd.-300x150.jpg",
+        "income": 78898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12369",
+        "company": "Building Technology & Ideas",
+        "established": "1984",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/bti-300x150.jpg",
+        "income": 75898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC123765",
+        "company": "Amin Mohammad Group",
+        "established": "1993",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Amin-Mohammad-Group-300x150.jpg",
+        "income": 74898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12734",
+        "company": "Concord Real Estate (CRE)",
+        "established": "1974",
+        "types": "Real Estate Companies",
+        "img": "https://www.assuregroupbd.com/images/media/concord-real-estate.png",
+        "income": 71898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC123321",
+        "company": "GLG Assets Ltd",
+        "established": "2001",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Glg-assets-ltd-logo-300x150.jpg",
+        "income": 67898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12397",
+        "company": "Artisan Group",
+        "established": "2009",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Artisan-group-300x150.jpg",
+        "income": 65898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12997",
+        "company": "ABC Real Estate Ltd",
+        "established": "1997",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/ABC-Real-estate-300x150.jpg",
+        "income": 57898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12884",
+        "company": "B D G",
+        "established": "2004",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Bangladesh-Development-Group-300x150.jpg",
+        "income": 55898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12447",
+        "company": "Anwar Landmark",
+        "established": "2010",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Anwar-Landmark-300x150.jpg",
+        "income": 51898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12991",
+        "company": "Alliance Properties",
+        "established": "2006",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Alliance-Properties-300x150.jpg",
+        "income": 50898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12888",
+        "company": "Nakshi Home Ltd",
+        "established": "1991",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Nakshi-Home-Ltd.-300x150.jpg",
+        "income": 50778000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC12990",
+        "company": "Shelter Pvt Ltd",
+        "established": "2002",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Shelter-Pvt-Ltd.-300x150.jpg",
+        "income": 47898000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": "ABC13765",
+        "company": "Shanta Holdings Ltd.",
+        "established": "2012",
+        "types": "Real Estate Companies",
+        "img": "https://i0.wp.com/glgassets.com/wp-content/uploads/2020/09/Shanta-Holdings-Ltd-300x150.jpg",
+        "income": 44898000,
+        "country": "Bangladesh"
+    }
+]

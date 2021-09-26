@@ -1,15 +1,13 @@
-import logo from './logo.svg';
+import Header from './components/Header/Header';
 import './App.css';
-import Header from './Component/Header/Header';
-import Speakers from './Component/Speakers/Speakers';
-
+import Main from './components/Main/Main';
 
 function App() {
   return (
-    <div className="body">
-      {/* this is header part  */}
-     <Header></Header>
-     <Speakers></Speakers>
+    <div>
+      {/* display header and main components here */}
+      <Header></Header>
+      <Main></Main>
     </div>
   );
 }
