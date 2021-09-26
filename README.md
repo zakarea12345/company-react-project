@@ -1,4 +1,4 @@
-# Real Estate Companies
+# Life Changing Seminer
 
 This full project code is [Create React App](https://github.com/ProgrammingHeroWC4/the-superhero-direction-zakarea12345).
 
